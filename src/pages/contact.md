@@ -43,7 +43,7 @@ sections:
         actions:
           - type: action
             label: Get Support
-            url: facebook.com/woofandgoods
+            url: 'https://facebook.com/woofandgoods'
             style: secondary
             has_icon: true
             icon: arrow-right
