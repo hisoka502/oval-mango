@@ -3,7 +3,7 @@
     "description": "A \"do it yourself\" theme for Stackbit",
     "layout": "boxed",
     "style": "minimal",
-    "palette": "green",
+    "palette": "red",
     "mode": "light",
     "base_font": "serif",
     "header": {
