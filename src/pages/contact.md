@@ -107,8 +107,7 @@ sections:
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
-        options:
-          - lorem-ipsum
+        options: []
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
