@@ -55,7 +55,7 @@ sections:
     grid_gap_vert: medium
     grid_gap_horiz: medium
     align: center
-    enable_cards: true
+    enable_cards: false
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
