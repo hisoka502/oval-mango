@@ -109,7 +109,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - lorem-ipsum
-        is_required: true
+        is_required: false
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
