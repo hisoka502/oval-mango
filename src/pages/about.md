@@ -14,8 +14,8 @@ sections:
         content: >+
           Lorem ipsum dolor sit amet, 
 
-          ---readmore---consectetur adipiscing elit. Donec nisl ligula, cursus
-          id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla,
+          <!--more-->consectetur adipiscing elit. Donec nisl ligula, cursus id
+          molestie vel, maximus aliquet risus. Vivamus in nibh fringilla,
           fringilla.
 
         image: images/about-5.jpg
